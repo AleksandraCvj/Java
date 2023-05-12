@@ -1,0 +1,6 @@
+Student:anja,cvj,e1/2001,2308999805118,anja,cvj
+Student:dimi,man,e2-2020,1202999805030,dimi,man
+
+Subject:mata;T1 5 22,T2 11 78
+Subject:srpski;T3 1 15,T4 20 85
+
