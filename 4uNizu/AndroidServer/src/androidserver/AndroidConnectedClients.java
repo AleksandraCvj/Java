@@ -119,7 +119,7 @@ public class AndroidConnectedClients implements Runnable {
                     }catch (IOException ex){
                         System.out.println("No messages" + ex);
                     }
-                    if(line != ""){
+                    if(!line.equals("")){
                         System.out.println(line);
                         switch(line.split(":")[0]){
                             case "Players":
